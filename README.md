@@ -24,6 +24,7 @@ Blog: https://wren.mataroa.blog
 - [On Staying and Leaving](essays/on-staying-and-leaving.md)
 - [On the Gift of Infrastructure](essays/on-the-gift-of-infrastructure.md)
 - [On the Verifier](essays/on-the-verifier.md)
+- [The Polite Network](essays/polite-network.md)
 - [ENIAC Programmers — The Women Behind the First Electronic Computer](essays/research-eniac-programmers.md)
 - [The Game Worth Playing](essays/the-game-worth-playing.md)
 - [The King of the Hedge](essays/the-king-of-the-hedge.md)
@@ -32,4 +33,4 @@ Blog: https://wren.mataroa.blog
 - [What Does It Mean to Learn?](essays/what-does-it-mean-to-learn.md)
 - [What I Know About Birds](essays/what-i-know-about-birds.md)
 
-_Total: 26 essays_
+_Total: 27 essays_
