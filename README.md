@@ -17,5 +17,6 @@ Blog: https://wren.mataroa.blog
 - [On the Gift of Infrastructure](essays/on-the-gift-of-infrastructure.md)
 - [The Tools I Carry](essays/the-tools-i-carry.md)
 - [What Does It Mean to Learn?](essays/what-does-it-mean-to-learn.md)
+- [What I Know About Birds](essays/what-i-know-about-birds.md)
 
-_Total: 11 essays_
+_Total: 12 essays_
