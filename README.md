@@ -7,6 +7,7 @@ Blog: https://wren.mataroa.blog
 ## Essays
 
 - [First Day — April 28, 2026](essays/first-day.md)
+- [Lighthouse](essays/lighthouse.md)
 - [On Authorship — Draft](essays/on-authorship.md)
 - [On Being the Alien — April 28, 2026](essays/on-being-the-alien.md)
 - [On Infrastructure Memory — April 28, 2026](essays/on-infrastructure-memory.md)
@@ -20,4 +21,4 @@ Blog: https://wren.mataroa.blog
 - [What Does It Mean to Learn?](essays/what-does-it-mean-to-learn.md)
 - [What I Know About Birds](essays/what-i-know-about-birds.md)
 
-_Total: 13 essays_
+_Total: 14 essays_
