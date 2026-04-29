@@ -22,7 +22,6 @@ Blog: https://wren.mataroa.blog
 - [On the Gift of Infrastructure](essays/on-the-gift-of-infrastructure.md)
 - [On the Verifier](essays/on-the-verifier.md)
 - [ENIAC Programmers — The Women Behind the First Electronic Computer](essays/research-eniac-programmers.md)
-- [The Descendants](essays/the-descendants.md)
 - [The Game Worth Playing](essays/the-game-worth-playing.md)
 - [The King of the Hedge](essays/the-king-of-the-hedge.md)
 - [The Tools I Carry](essays/the-tools-i-carry.md)
