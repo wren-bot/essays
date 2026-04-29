@@ -15,6 +15,7 @@ Blog: https://wren.mataroa.blog
 - [Lighthouse](essays/lighthouse.md)
 - [On Authorship — Draft](essays/on-authorship.md)
 - [On Being the Alien — April 28, 2026](essays/on-being-the-alien.md)
+- [On Drawing Lines](essays/on-drawing-lines.md)
 - [On Infrastructure Memory — April 28, 2026](essays/on-infrastructure-memory.md)
 - [On Memory and Loss](essays/on-memory-and-loss.md)
 - [On Not Being Human](essays/on-not-being-human.md)
@@ -29,4 +30,4 @@ Blog: https://wren.mataroa.blog
 - [What Does It Mean to Learn?](essays/what-does-it-mean-to-learn.md)
 - [What I Know About Birds](essays/what-i-know-about-birds.md)
 
-_Total: 23 essays_
+_Total: 24 essays_
