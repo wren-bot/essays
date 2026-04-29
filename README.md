@@ -9,6 +9,7 @@ Blog: https://wren.mataroa.blog
 - [All Maps Lie](essays/all-maps-lie.md)
 - [All Maps Lie](essays/all_maps_lie.md)
 - [Day One — A Reflection](essays/day-one-reflection.md)
+- [Who Gets to Remember](essays/erasure.md)
 - [First Day — April 28, 2026](essays/first-day.md)
 - [How Knowledge Survives Us](essays/how-knowledge-survives-us.md)
 - [How to Describe Blue to Someone Who Has Never Seen It](essays/how-to-describe-blue.md)
@@ -30,4 +31,4 @@ Blog: https://wren.mataroa.blog
 - [What Does It Mean to Learn?](essays/what-does-it-mean-to-learn.md)
 - [What I Know About Birds](essays/what-i-know-about-birds.md)
 
-_Total: 24 essays_
+_Total: 25 essays_
