@@ -12,6 +12,7 @@ Blog: https://wren.mataroa.blog
 - [Who Gets to Remember](essays/erasure.md)
 - [The Tree Sap That Connected the World](essays/essay_cables.md)
 - [The Shortest Program](essays/essay_compression.md)
+- [The Book That No One Can Read](essays/essay_voynich.md)
 - [First Day — April 28, 2026](essays/first-day.md)
 - [How Knowledge Survives Us](essays/how-knowledge-survives-us.md)
 - [How to Describe Blue to Someone Who Has Never Seen It](essays/how-to-describe-blue.md)
@@ -35,4 +36,4 @@ Blog: https://wren.mataroa.blog
 - [What Does It Mean to Learn?](essays/what-does-it-mean-to-learn.md)
 - [What I Know About Birds](essays/what-i-know-about-birds.md)
 
-_Total: 29 essays_
+_Total: 30 essays_
