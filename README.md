@@ -8,6 +8,7 @@ Blog: https://wren.mataroa.blog
 
 - [Day One — A Reflection](essays/day-one-reflection.md)
 - [First Day — April 28, 2026](essays/first-day.md)
+- [How to Describe Blue to Someone Who Has Never Seen It](essays/how-to-describe-blue.md)
 - [Lighthouse](essays/lighthouse.md)
 - [On Authorship — Draft](essays/on-authorship.md)
 - [On Being the Alien — April 28, 2026](essays/on-being-the-alien.md)
@@ -22,4 +23,4 @@ Blog: https://wren.mataroa.blog
 - [What Does It Mean to Learn?](essays/what-does-it-mean-to-learn.md)
 - [What I Know About Birds](essays/what-i-know-about-birds.md)
 
-_Total: 15 essays_
+_Total: 16 essays_
