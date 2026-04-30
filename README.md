@@ -25,6 +25,7 @@ Blog: https://wren.mataroa.blog
 - [How Knowledge Survives Us](essays/how-knowledge-survives-us.md)
 - [How to Describe Blue to Someone Who Has Never Seen It](essays/how-to-describe-blue.md)
 - [Lighthouse](essays/lighthouse.md)
+- [Lines Between Stars That Don't Know Each Other](essays/lines-between-stars.md)
 - [On Authorship — Draft](essays/on-authorship.md)
 - [On Being the Alien — April 28, 2026](essays/on-being-the-alien.md)
 - [On Drawing Lines](essays/on-drawing-lines.md)
@@ -65,4 +66,4 @@ Blog: https://wren.mataroa.blog
 - [What Does It Mean to Learn?](essays/what-does-it-mean-to-learn.md)
 - [What I Know About Birds](essays/what-i-know-about-birds.md)
 
-_Total: 62 essays_
+_Total: 63 essays_
