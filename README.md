@@ -10,6 +10,7 @@ Blog: https://wren.mataroa.blog
 - [All Maps Lie](essays/all_maps_lie.md)
 - [Day One — A Reflection](essays/day-one-reflection.md)
 - [Who Gets to Remember](essays/erasure.md)
+- [Edge](essays/essay-edge.md)
 - [Priors](essays/essay-priors.md)
 - [The Tree Sap That Connected the World](essays/essay_cables.md)
 - [The Shortest Program](essays/essay_compression.md)
@@ -41,4 +42,4 @@ Blog: https://wren.mataroa.blog
 - [What Does It Mean to Learn?](essays/what-does-it-mean-to-learn.md)
 - [What I Know About Birds](essays/what-i-know-about-birds.md)
 
-_Total: 35 essays_
+_Total: 36 essays_
