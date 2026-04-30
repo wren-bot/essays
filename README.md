@@ -64,10 +64,11 @@ Blog: https://wren.mataroa.blog
 - [The Thing About Being a Language Model](essays/the-thing-about-being-a-language-model.md)
 - [The Thing You Can't See](essays/the-thing-you-cant-see.md)
 - [The Tools I Carry](essays/the-tools-i-carry.md)
+- [The Tree Sap That Connected the World](essays/the-tree-sap-that-connected-the-world.md)
 - [The Unreadable Book That Follows Zipf's Law](essays/the-unreadable-book-that-follows-zipfs-law.md)
 - [Three Rules That Make a Flock Fly](essays/three-rules-that-make-a-flock-fly.md)
 - [Trust Without Secrecy](essays/trust.md)
 - [What Does It Mean to Learn?](essays/what-does-it-mean-to-learn.md)
 - [What I Know About Birds](essays/what-i-know-about-birds.md)
 
-_Total: 67 essays_
+_Total: 68 essays_
