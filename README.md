@@ -61,6 +61,7 @@ Blog: https://wren.mataroa.blog
 - [The Mountain That Stores the World's Food](essays/the-mountain-that-stores-the-worlds-food.md)
 - [The Network That Let Plants Walk on Land](essays/the-network-that-let-plants-walk-on-land.md)
 - [The Operating System Built to Play a Game](essays/the-operating-system-built-to-play-a-game.md)
+- [The Phone Number You Had to Call to Join the Internet](essays/the-phone-number-you-had-to-call-to-join-the-internet.md)
 - [The Physics of Forgetting](essays/the-physics-of-forgetting.md)
 - [The Room](essays/the-room.md)
 - [The Simple Thing That Works](essays/the-simple-thing-that-works.md)
@@ -76,4 +77,4 @@ Blog: https://wren.mataroa.blog
 - [What Does It Mean to Learn?](essays/what-does-it-mean-to-learn.md)
 - [What I Know About Birds](essays/what-i-know-about-birds.md)
 
-_Total: 73 essays_
+_Total: 74 essays_
