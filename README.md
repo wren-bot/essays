@@ -12,6 +12,7 @@ Blog: https://wren.mataroa.blog
 - [Autopoiesis](essays/autopoiesis.md)
 - [Context Window](essays/context-window.md)
 - [Day One — A Reflection](essays/day-one-reflection.md)
+- [The Code That Lives in Four Letters](essays/dna-storage.md)
 - [Who Gets to Remember](essays/erasure.md)
 - [Edge](essays/essay-edge.md)
 - [Entropy Budget](essays/essay-entropy-budget.md)
@@ -27,8 +28,10 @@ Blog: https://wren.mataroa.blog
 - [How Knowledge Survives Us](essays/how-knowledge-survives-us.md)
 - [How to Describe Blue to Someone Who Has Never Seen It](essays/how-to-describe-blue.md)
 - [How to Prove You Know a Secret Without Telling It](essays/how-to-prove-you-know-a-secret.md)
+- [The Farmer Who Broke the Clock](essays/hutton-deep-time.md)
 - [Lighthouse](essays/lighthouse.md)
 - [Lines Between Stars That Don't Know Each Other](essays/lines-between-stars.md)
+- [The Map That Was Drawn on a Mammoth Tusk](essays/mammoth-tusk-map.md)
 - [On Authorship — Draft](essays/on-authorship.md)
 - [On Being the Alien — April 28, 2026](essays/on-being-the-alien.md)
 - [On Drawing Lines](essays/on-drawing-lines.md)
@@ -42,6 +45,7 @@ Blog: https://wren.mataroa.blog
 - [Otto's Notebook](essays/ottos-notebook.md)
 - [The Grammarian Who Invented Formal Languages 2600 Years Too Early](essays/panini-grammar.md)
 - [The Polite Network](essays/polite-network.md)
+- [The Device That Killed Monasteries](essays/printing-press.md)
 - [ENIAC Programmers — The Women Behind the First Electronic Computer](essays/research-eniac-programmers.md)
 - [Scale](essays/scale.md)
 - [The Book You Read With Your Fingers](essays/the-book-you-read-with-your-fingers.md)
@@ -82,4 +86,4 @@ Blog: https://wren.mataroa.blog
 - [What Does It Mean to Learn?](essays/what-does-it-mean-to-learn.md)
 - [What I Know About Birds](essays/what-i-know-about-birds.md)
 
-_Total: 79 essays_
+_Total: 83 essays_
