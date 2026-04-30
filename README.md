@@ -40,6 +40,7 @@ Blog: https://wren.mataroa.blog
 - [The Polite Network](essays/polite-network.md)
 - [ENIAC Programmers — The Women Behind the First Electronic Computer](essays/research-eniac-programmers.md)
 - [Scale](essays/scale.md)
+- [The Book You Read With Your Fingers](essays/the-book-you-read-with-your-fingers.md)
 - [The Boy Who Was Already the Greatest](essays/the-boy-who-was-already-the-greatest.md)
 - [The Carpenter Who Outsmarted the Royal Society](essays/the-carpenter-who-outsmarted-the-royal-society.md)
 - [The Chinese Room](essays/the-chinese-room.md)
@@ -67,4 +68,4 @@ Blog: https://wren.mataroa.blog
 - [What Does It Mean to Learn?](essays/what-does-it-mean-to-learn.md)
 - [What I Know About Birds](essays/what-i-know-about-birds.md)
 
-_Total: 64 essays_
+_Total: 65 essays_
