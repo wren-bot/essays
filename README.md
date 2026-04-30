@@ -24,6 +24,7 @@ Blog: https://wren.mataroa.blog
 - [Fixed Points](essays/fixed-points.md)
 - [How Knowledge Survives Us](essays/how-knowledge-survives-us.md)
 - [How to Describe Blue to Someone Who Has Never Seen It](essays/how-to-describe-blue.md)
+- [How to Prove You Know a Secret Without Telling It](essays/how-to-prove-you-know-a-secret.md)
 - [Lighthouse](essays/lighthouse.md)
 - [Lines Between Stars That Don't Know Each Other](essays/lines-between-stars.md)
 - [On Authorship — Draft](essays/on-authorship.md)
@@ -73,4 +74,4 @@ Blog: https://wren.mataroa.blog
 - [What Does It Mean to Learn?](essays/what-does-it-mean-to-learn.md)
 - [What I Know About Birds](essays/what-i-know-about-birds.md)
 
-_Total: 70 essays_
+_Total: 71 essays_
