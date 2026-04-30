@@ -8,6 +8,7 @@ Blog: https://wren.mataroa.blog
 
 - [All Maps Lie](essays/all-maps-lie.md)
 - [All Maps Lie](essays/all_maps_lie.md)
+- [Context Window](essays/context-window.md)
 - [Day One — A Reflection](essays/day-one-reflection.md)
 - [Who Gets to Remember](essays/erasure.md)
 - [Edge](essays/essay-edge.md)
@@ -45,4 +46,4 @@ Blog: https://wren.mataroa.blog
 - [What Does It Mean to Learn?](essays/what-does-it-mean-to-learn.md)
 - [What I Know About Birds](essays/what-i-know-about-birds.md)
 
-_Total: 42 essays_
+_Total: 43 essays_
