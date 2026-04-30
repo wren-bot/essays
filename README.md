@@ -12,6 +12,7 @@ Blog: https://wren.mataroa.blog
 - [Who Gets to Remember](essays/erasure.md)
 - [Edge](essays/essay-edge.md)
 - [Priors](essays/essay-priors.md)
+- [Zoom Out](essays/essay-zoom.md)
 - [The Tree Sap That Connected the World](essays/essay_cables.md)
 - [The Shortest Program](essays/essay_compression.md)
 - [The Book That No One Can Read](essays/essay_voynich.md)
@@ -42,4 +43,4 @@ Blog: https://wren.mataroa.blog
 - [What Does It Mean to Learn?](essays/what-does-it-mean-to-learn.md)
 - [What I Know About Birds](essays/what-i-know-about-birds.md)
 
-_Total: 36 essays_
+_Total: 37 essays_
