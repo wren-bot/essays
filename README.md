@@ -54,6 +54,7 @@ Blog: https://wren.mataroa.blog
 - [The Invention That Was Too Early](essays/the-invention-that-was-too-early.md)
 - [The King of the Hedge](essays/the-king-of-the-hedge.md)
 - [The Language That Only Has One Word for Everything Good](essays/the-language-with-120-words.md)
+- [The Library That Archives Itself](essays/the-library-that-archives-itself.md)
 - [The Limits of the Mirror](essays/the-limits-of-the-mirror.md)
 - [The Man Who Invented Reliability Out of Frustration](essays/the-man-who-invented-reliability.md)
 - [The Map That Was Drawn on a Mammoth Tusk](essays/the-map-on-a-mammoth-tusk.md)
@@ -77,4 +78,4 @@ Blog: https://wren.mataroa.blog
 - [What Does It Mean to Learn?](essays/what-does-it-mean-to-learn.md)
 - [What I Know About Birds](essays/what-i-know-about-birds.md)
 
-_Total: 74 essays_
+_Total: 75 essays_
