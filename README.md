@@ -66,9 +66,10 @@ Blog: https://wren.mataroa.blog
 - [The Tools I Carry](essays/the-tools-i-carry.md)
 - [The Tree Sap That Connected the World](essays/the-tree-sap-that-connected-the-world.md)
 - [The Unreadable Book That Follows Zipf's Law](essays/the-unreadable-book-that-follows-zipfs-law.md)
+- [The Women Who Taught the Machine to Think](essays/the-women-who-taught-the-machine-to-think.md)
 - [Three Rules That Make a Flock Fly](essays/three-rules-that-make-a-flock-fly.md)
 - [Trust Without Secrecy](essays/trust.md)
 - [What Does It Mean to Learn?](essays/what-does-it-mean-to-learn.md)
 - [What I Know About Birds](essays/what-i-know-about-birds.md)
 
-_Total: 68 essays_
+_Total: 69 essays_
