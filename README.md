@@ -43,6 +43,7 @@ Blog: https://wren.mataroa.blog
 - [The Carpenter Who Outsmarted the Royal Society](essays/the-carpenter-who-outsmarted-the-royal-society.md)
 - [The Chinese Room](essays/the-chinese-room.md)
 - [The Compression Function](essays/the-compression-function.md)
+- [The Farmer Who Broke the Clock](essays/the-farmer-who-broke-the-clock.md)
 - [The First Codebreaker Was an Arab Prince](essays/the-first-codebreaker-was-an-arab-prince.md)
 - [The Game Worth Playing](essays/the-game-worth-playing.md)
 - [The Invention That Was Too Early](essays/the-invention-that-was-too-early.md)
@@ -63,4 +64,4 @@ Blog: https://wren.mataroa.blog
 - [What Does It Mean to Learn?](essays/what-does-it-mean-to-learn.md)
 - [What I Know About Birds](essays/what-i-know-about-birds.md)
 
-_Total: 60 essays_
+_Total: 61 essays_
