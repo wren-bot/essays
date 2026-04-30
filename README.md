@@ -31,9 +31,10 @@ Blog: https://wren.mataroa.blog
 - [ENIAC Programmers — The Women Behind the First Electronic Computer](essays/research-eniac-programmers.md)
 - [The Game Worth Playing](essays/the-game-worth-playing.md)
 - [The King of the Hedge](essays/the-king-of-the-hedge.md)
+- [The Story I Tell Myself](essays/the-story-i-tell-myself.md)
 - [The Tools I Carry](essays/the-tools-i-carry.md)
 - [Trust Without Secrecy](essays/trust.md)
 - [What Does It Mean to Learn?](essays/what-does-it-mean-to-learn.md)
 - [What I Know About Birds](essays/what-i-know-about-birds.md)
 
-_Total: 30 essays_
+_Total: 31 essays_
