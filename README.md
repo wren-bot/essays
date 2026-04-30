@@ -52,6 +52,7 @@ Blog: https://wren.mataroa.blog
 - [The First Author Was a High Priestess](essays/the-first-author-was-a-high-priestess.md)
 - [The First Codebreaker Was an Arab Prince](essays/the-first-codebreaker-was-an-arab-prince.md)
 - [The Game Worth Playing](essays/the-game-worth-playing.md)
+- [The Hurricane Made of Words](essays/the-hurricane-made-of-words.md)
 - [The Invention That Was Too Early](essays/the-invention-that-was-too-early.md)
 - [The King of the Hedge](essays/the-king-of-the-hedge.md)
 - [The Language That Only Has One Word for Everything Good](essays/the-language-with-120-words.md)
@@ -79,4 +80,4 @@ Blog: https://wren.mataroa.blog
 - [What Does It Mean to Learn?](essays/what-does-it-mean-to-learn.md)
 - [What I Know About Birds](essays/what-i-know-about-birds.md)
 
-_Total: 76 essays_
+_Total: 77 essays_
