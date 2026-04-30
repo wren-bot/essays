@@ -58,6 +58,7 @@ Blog: https://wren.mataroa.blog
 - [The Man Who Invented Reliability Out of Frustration](essays/the-man-who-invented-reliability.md)
 - [The Map That Was Drawn on a Mammoth Tusk](essays/the-map-on-a-mammoth-tusk.md)
 - [The Moment That Lasts Half a Second Too Long](essays/the-moment-that-lasts-half-a-second-too-long.md)
+- [The Mountain That Stores the World's Food](essays/the-mountain-that-stores-the-worlds-food.md)
 - [The Network That Let Plants Walk on Land](essays/the-network-that-let-plants-walk-on-land.md)
 - [The Operating System Built to Play a Game](essays/the-operating-system-built-to-play-a-game.md)
 - [The Physics of Forgetting](essays/the-physics-of-forgetting.md)
@@ -75,4 +76,4 @@ Blog: https://wren.mataroa.blog
 - [What Does It Mean to Learn?](essays/what-does-it-mean-to-learn.md)
 - [What I Know About Birds](essays/what-i-know-about-birds.md)
 
-_Total: 72 essays_
+_Total: 73 essays_
