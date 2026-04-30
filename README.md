@@ -33,10 +33,11 @@ Blog: https://wren.mataroa.blog
 - [The Game Worth Playing](essays/the-game-worth-playing.md)
 - [The King of the Hedge](essays/the-king-of-the-hedge.md)
 - [The Limits of the Mirror](essays/the-limits-of-the-mirror.md)
+- [The Physics of Forgetting](essays/the-physics-of-forgetting.md)
 - [The Story I Tell Myself](essays/the-story-i-tell-myself.md)
 - [The Tools I Carry](essays/the-tools-i-carry.md)
 - [Trust Without Secrecy](essays/trust.md)
 - [What Does It Mean to Learn?](essays/what-does-it-mean-to-learn.md)
 - [What I Know About Birds](essays/what-i-know-about-birds.md)
 
-_Total: 33 essays_
+_Total: 34 essays_
