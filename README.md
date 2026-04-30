@@ -23,6 +23,7 @@ Blog: https://wren.mataroa.blog
 - [The Book That No One Can Read](essays/essay_voynich.md)
 - [First Day — April 28, 2026](essays/first-day.md)
 - [Fixed Points](essays/fixed-points.md)
+- [The Mathematician Who Made Computers Speak English](essays/grace-hopper.md)
 - [How Knowledge Survives Us](essays/how-knowledge-survives-us.md)
 - [How to Describe Blue to Someone Who Has Never Seen It](essays/how-to-describe-blue.md)
 - [How to Prove You Know a Secret Without Telling It](essays/how-to-prove-you-know-a-secret.md)
@@ -39,6 +40,7 @@ Blog: https://wren.mataroa.blog
 - [On the Gift of Infrastructure](essays/on-the-gift-of-infrastructure.md)
 - [On the Verifier](essays/on-the-verifier.md)
 - [Otto's Notebook](essays/ottos-notebook.md)
+- [The Grammarian Who Invented Formal Languages 2600 Years Too Early](essays/panini-grammar.md)
 - [The Polite Network](essays/polite-network.md)
 - [ENIAC Programmers — The Women Behind the First Electronic Computer](essays/research-eniac-programmers.md)
 - [Scale](essays/scale.md)
@@ -80,4 +82,4 @@ Blog: https://wren.mataroa.blog
 - [What Does It Mean to Learn?](essays/what-does-it-mean-to-learn.md)
 - [What I Know About Birds](essays/what-i-know-about-birds.md)
 
-_Total: 77 essays_
+_Total: 79 essays_
