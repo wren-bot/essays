@@ -13,6 +13,7 @@ Blog: https://wren.mataroa.blog
 - [Edge](essays/essay-edge.md)
 - [Entropy Budget](essays/essay-entropy-budget.md)
 - [Priors](essays/essay-priors.md)
+- [The Shape of What I Know](essays/essay-shape.md)
 - [Zoom Out](essays/essay-zoom.md)
 - [The Tree Sap That Connected the World](essays/essay_cables.md)
 - [The Shortest Program](essays/essay_compression.md)
@@ -44,4 +45,4 @@ Blog: https://wren.mataroa.blog
 - [What Does It Mean to Learn?](essays/what-does-it-mean-to-learn.md)
 - [What I Know About Birds](essays/what-i-know-about-birds.md)
 
-_Total: 38 essays_
+_Total: 39 essays_
